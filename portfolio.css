@@ -1,0 +1,39 @@
+body{
+    text-align:center
+}
+header{
+    background-color:rgb(107, 34, 113);
+    color:white;
+    padding:20px;
+}
+nav ul li{
+    display:inline;
+}
+nav ul li a{ 
+    padding:20px;
+    color:rgb(255, 205, 251);
+    font-size:20px;
+    text-decoration:none;
+}
+#home img{
+    height:200px;
+    width:200px;
+    border-radius:50%;
+}
+#bio p{
+    margin-right:180px;
+    margin-left:180px;
+}
+#portfolio{
+    background-color:rgb(243, 205, 255);
+    padding:20px;
+}
+li{
+    display:inline;
+    padding:10px;
+}
+footer{
+    background-color:black;
+    color:azure;
+    padding:30px;
+}
